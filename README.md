@@ -5,7 +5,7 @@ Implementation of Model in Deep learning Paper with PyTorch &amp; Keras
 ## CNN (Classification)
 
 0. Standard (Just ToyNet for Implementation of Deep Learning Model) 
-[Code](https://github.com/jhcha08/Implementation_DeepLearningPaper/blob/master/CNN.%20Standard.ipynb)
+[[Code](https://github.com/jhcha08/Implementation_DeepLearningPaper/blob/master/CNN.%20Standard.ipynb)]
 
 
 
