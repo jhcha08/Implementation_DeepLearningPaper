@@ -62,13 +62,14 @@ Implementation of Model in Deep learning Paper with PyTorch &amp; Keras
 11. **ResNext** (Aggregated Residual Transformations for Deep Neural Networks)
 [[Code](https://github.com/jhcha08/Implementation_DeepLearningPaper/blob/master/CNN.%20ResNeXt.ipynb)] [[Paper](https://arxiv.org/pdf/1611.05431.pdf)]
 
-
+---
 
 ### SR (Super Resolution)
 
 1. **SRCNN** (Image Super-Resolution Using Deep Convolutional Networks)
 [[Code](https://github.com/jhcha08/Implementation_DeepLearningPaper/blob/master/SR.%20SRCNN.ipynb)] [[Paper](https://arxiv.org/pdf/1501.00092.pdf)]
 
+---
 
 ### GAN (Generatice Adversarial Networks)
 
