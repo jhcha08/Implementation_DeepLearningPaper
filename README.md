@@ -67,7 +67,7 @@
 ### SR (Super Resolution)
 
 1. **SRCNN** (Image Super-Resolution Using Deep Convolutional Networks)
-[[Code](https://github.com/jhcha08/Implementation_DeepLearningPaper/blob/master/SR.%20SRCNN.ipynb)] [[Paper](https://arxiv.org/pdf/1501.00092.pdf)]
+[[Code](https://github.com/jhcha08/Implementation_DeepLearningPaper/tree/master/srcnn)] [[Paper](https://arxiv.org/pdf/1501.00092.pdf)]
 
 ---
 
