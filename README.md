@@ -69,6 +69,16 @@
 1. **SRCNN** (Image Super-Resolution Using Deep Convolutional Networks)
 [[Code](https://github.com/jhcha08/Implementation_DeepLearningPaper/tree/master/srcnn)] [[Paper](https://arxiv.org/pdf/1501.00092.pdf)]
 
+
+
+2. **VDSR** (Accurate Image Super-Resolution Using Very Deep Convolutional Networks)
+[[Code](https://github.com/jhcha08/Implementation_DeepLearningPaper/blob/master/SR.%20VDSR.ipynb)] [[Paper](https://arxiv.org/pdf/1511.04587.pdf)]
+
+
+
+3. **SESR** (SESR: Single Image Super Resolution with Recursive Squeeze and Excitation Networks )
+[[Code](https://github.com/jhcha08/Implementation_DeepLearningPaper/blob/master/SR.%20SESR.ipynb)] [[Paper](https://arxiv.org/ftp/arxiv/papers/1801/1801.10319.pdf)]
+
 ---
 
 ### GAN (Generatice Adversarial Networks)
