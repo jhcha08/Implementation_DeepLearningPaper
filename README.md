@@ -76,7 +76,7 @@
 
 
 
-3. **SESR** (SESR: Single Image Super Resolution with Recursive Squeeze and Excitation Networks )
+3. **SESR** (SESR: Single Image Super Resolution with Recursive Squeeze and Excitation Networks)
 [[Code](https://github.com/jhcha08/Implementation_DeepLearningPaper/blob/master/SR.%20SESR.ipynb)] [[Paper](https://arxiv.org/ftp/arxiv/papers/1801/1801.10319.pdf)]
 
 ---
