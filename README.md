@@ -1,5 +1,6 @@
 # Implementation_DeepLearningPaper
 < Implementation of Model in Deep learning Paper with PyTorch >
+You can read the reviews about these models from my blog : https://mole-starseeker.tistory.com/
 
 
 ### CNN (Classification)
