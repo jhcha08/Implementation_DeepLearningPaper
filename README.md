@@ -1,5 +1,5 @@
 # Implementation_DeepLearningPaper
-< Implementation of Model in Deep learning Paper with PyTorch >
+< Implementation of Model in Deep learning Paper with PyTorch ></br>
 You can read the reviews about these models from my blog : https://mole-starseeker.tistory.com/
 
 
